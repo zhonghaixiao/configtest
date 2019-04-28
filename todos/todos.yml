@@ -1,2 +1,6 @@
 name: zhonghaixiao
 age: 27
+spring:
+  datasource:
+    username: root
+    password: '{cipher}f8faac8d78b416f36618df8327c8e6a36cf9b36e37dc93d4f973ce18dec8ca7a'
